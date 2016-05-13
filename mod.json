@@ -1,0 +1,7 @@
+{
+    "BaseDir": "",
+    "IsDevelopment": true,
+    "Name": "Razevil Building Set",
+    "Project": "Custom Scenery.csproj",
+	"AssetBundleDir": "assetbundle"
+}

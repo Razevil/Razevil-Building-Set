@@ -1,0 +1,772 @@
+﻿{
+	"Wall": {
+		"category": "Razevil Deco/Wall",
+		"model": "Wall",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 1.0,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+	
+	"Half Height Wall": {
+		"category": "Razevil Deco/Wall",
+		"model": "Half Height Wall",
+		"type": "deco",
+		"price": 2.50,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Quarter Height Wall": {
+		"category": "Razevil Deco/Wall",
+		"model": "Quarter Height Wall",
+		"type": "deco",
+		"price": 1.50,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Wall Border": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Wall Border",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.1,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#7F7E7E"
+			}
+		},
+		
+	"Wide Door": {
+		"category": "Razevil Deco/Wall",
+		"model": "Wide Door",
+		"type": "deco",
+		"price": 20.5,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Box Window": {
+		"category": "Razevil Deco/Wall",
+		"model": "Box Window",
+		"type": "deco",
+		"price": 20.5,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Rectangle Window": {
+		"category": "Razevil Deco/Wall",
+		"model": "Rectangle Window",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Tall Window": {
+		"category": "Razevil Deco/Wall",
+		"model": "Tall Window",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Round Window": {
+		"category": "Razevil Deco/Wall",
+		"model": "Round Window",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Round Window Half Wall": {
+		"category": "Razevil Deco/Wall",
+		"model": "Round Window Half Wall",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Floor": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Floor",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.1,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#7C4A04"
+			}
+		},
+		
+	"Flat Roof": {
+		"category": "Razevil Deco/Roof",
+		"model": "Flat Roof",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.1,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Round Window Frame 1": {
+		"category": "Razevil Deco/Frames",
+		"model": "Round Window Frame 1",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#7C4A04"
+			}
+		},
+		
+	"Round Window Half Wall Frame 1": {
+		"category": "Razevil Deco/Frames",
+		"model": "Round Window Half Wall Frame",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#7C4A04"
+			}
+		},
+		
+	"Rectangle Window Frame 1": {
+		"category": "Razevil Deco/Frames",
+		"model": "Rectangle Window Frame 1",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#7C4A04"
+			}
+		},
+		
+	"Tall Window Frame 1": {
+		"category": "Razevil Deco/Frames",
+		"model": "Tall Window Frame 1",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#7C4A04"
+			}
+		},
+		
+	"Box Window Frame 1": {
+		"category": "Razevil Deco/Frames",
+		"model": "Box Window Frame 1",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.5,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#7C4A04"
+			}
+		},
+		
+	"Vertical Border": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Vertical Border",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.1,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Half Vertical Border": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Half Vertical Border",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.1,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Quarter Vertical Border": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Quarter Vertical Border",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.1,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Horizontal Wall Accent": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Hor Wall Accent",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Horizontal Wall Accent Corner": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Hor Accent Corner",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Vertical Wall Accent Corner": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Vert Accent Corner",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Wide Door Border": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Wide Door Border",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.1,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Wide Door Frame": {
+		"category": "Razevil Deco/Frames",
+		"model": "Wide Door Frame",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#7C4A04"
+			}
+		},
+	
+	"Slope 3": {
+		"category": "Razevil Deco/Wall",
+		"model": "Wall Slope 3",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Slope 2": {
+		"category": "Razevil Deco/Wall",
+		"model": "Wall Slope 2",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Slope 1": {
+		"category": "Razevil Deco/Wall",
+		"model": "Wall Slope 1",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Triangle Slope 1": {
+		"category": "Razevil Deco/Wall",
+		"model": "Triangle Slope 1",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Triangle Slope 2": {
+		"category": "Razevil Deco/Wall",
+		"model": "Triangle Slope 2",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Triangle Slope 3": {
+		"category": "Razevil Deco/Wall",
+		"model": "Triangle Slope 3",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
+			}
+		},
+		
+	"Triangle Roof Overhang 3": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Overhang Tri Slope 3",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#8D8B8B"
+			}
+		},
+		
+	"Triangle Roof Overhang 2": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Overhang Tri Slope 2",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#8D8B8B"
+			}
+		},
+		
+	"Triangle Roof Overhang 1": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Overhang Tri Slope 1",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#8D8B8B"
+			}
+		},
+		
+	"Outside Corner Slope 3": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Outside Corner Slant 3",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Outside Corner Slope 2": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Outside Corner Slant 2",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Outside Corner Slope 1": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Outside Corner Slant 1",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Inside Corner Slope 1": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Inside Corer Slant 1",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Inside Corner Slope 2": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Inside Corer Slant 2",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Inside Corner Slope 3": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Inside Corer Slant 3",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Middle Slope 3": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof  Middle Slope 3",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Middle Slope 2": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof  Middle Slope 2",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Middle Slope 1": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof  Middle Slope 1",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Middle End Slope 1": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Middle End Slant 1",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Middle End Slope 2": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Middle End Slant 2",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Middle End Slope 3": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Middle End Slant 3",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Roof Slope 3": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Slope 3",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Roof Slope 2": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Slope 2",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Roof Slope 1": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Slope 1",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Roof Overhang Slope 3": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Overhang Slope 3",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#8D8B8B"
+			}
+		},
+		
+	"Roof Overhang Slope 2": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Overhang Slope 2",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#8D8B8B"
+			}
+		},
+		
+	"Roof Overhang Slope 1": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Overhang Slope 1",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#8D8B8B"
+			}
+		},
+		
+	"Roof Cap Slope 1": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Cap Slope 1",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Roof Cap Slope 2": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Cap Slope 2",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Roof Cap Slope 3": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Cap Slope 3",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#535353"
+			}
+		},
+		
+	"Roof Overhang": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Overhang",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#8D8B8B"
+			}
+		},
+		
+	"Roof Overhang Corner": {
+		"category": "Razevil Deco/Roof",
+		"model": "Roof Overhang Corner",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#8D8B8B"
+			}
+		},
+		
+	"Pole": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Pole",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#A6A6AE"
+			}
+		},
+		
+	"Half Pole": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Half Pole",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#A6A6AE"
+			}
+		},
+		
+	"Quarter Pole": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Quarter Pole",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#A6A6AE"
+			}
+		}
+}		
+		
