@@ -147,7 +147,7 @@
 		"model": "Flat Roof",
 		"type": "deco",
 		"price": 5.00,
-		"heightDelta": 0.1,
+		"heightDelta": 0.25,
 		"grid": true,
 		"recolorable": true,
 		"recolorableOptions": {
@@ -225,7 +225,7 @@
 		"model": "Vertical Border",
 		"type": "deco",
 		"price": 1.00,
-		"heightDelta": 0.1,
+		"heightDelta": 1.0,
 		"recolorable": true,
 		"recolorableOptions": {
 			"color 1": "#4A0101"
@@ -237,7 +237,7 @@
 		"model": "Half Vertical Border",
 		"type": "deco",
 		"price": 1.00,
-		"heightDelta": 0.1,
+		"heightDelta": 0.5,
 		"recolorable": true,
 		"recolorableOptions": {
 			"color 1": "#4A0101"
@@ -249,7 +249,7 @@
 		"model": "Quarter Vertical Border",
 		"type": "deco",
 		"price": 1.00,
-		"heightDelta": 0.1,
+		"heightDelta": 0.25,
 		"recolorable": true,
 		"recolorableOptions": {
 			"color 1": "#4A0101"
@@ -262,6 +262,174 @@
 		"type": "deco",
 		"price": 1.00,
 		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Half Horizontal Wall Accent": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Hor Wall Accent Half",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Quarter Horizontal Wall Accent": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Hor Wall Accent Quart",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Wall Accent Slope 1": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Wall Accent Slope 1",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Half Wall Accent Slope 1": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Half Wall Accent Slope 1",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Quarter Wall Accent Slope 1": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Quart Wall Accent Slope 1",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Wall Accent Slope 2": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Wall Accent Slope 2",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Half Wall Accent Slope 2": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Half Wall Accent Slope 2",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Quarter Wall Accent Slope 2": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Quart Wall Accent Slope 2",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Wall Accent Slope 3": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Wall Accent Slope 3",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Half Wall Accent Slope 3": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Half Wall Accent Slope 3",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Quarter Wall Accent Slope 3": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Quart Wall Accent Slope 3",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Wall Accent Slope 4": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Wall Accent Slope 4",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Half Wall Accent Slope 4": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Half Wall Accent Slope 4",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Quarter Wall Accent Slope 4": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Quart Wall Accent Slope 4",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.05,
 		"recolorable": true,
 		"recolorableOptions": {
 			"color 1": "#4A0101"
@@ -283,6 +451,30 @@
 	"Vertical Wall Accent Corner": {
 		"category": "Razevil Deco/Adornments",
 		"model": "Vert Accent Corner",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Half Vertical Wall Accent Corner": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Vert Accent Corner Half",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Quarter Vertical Wall Accent Corner": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Vert Accent Corner Quart",
 		"type": "deco",
 		"price": 1.00,
 		"heightDelta": 0.25,
@@ -315,6 +507,19 @@
 		"recolorable": true,
 		"recolorableOptions": {
 			"color 1": "#7C4A04"
+			}
+		},
+		
+	"Slope 4": {
+		"category": "Razevil Deco/Wall",
+		"model": "Wall Slope 4",
+		"type": "deco",
+		"price": 5.00,
+		"heightDelta": 0.25,
+		"grid": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#ECE4E4"
 			}
 		},
 	

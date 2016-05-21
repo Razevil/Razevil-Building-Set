@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 799779027
+CRC: 413794595
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f61afd9d47c4ab3c1dfa59e3f16ebc5d
+    Hash: fda01ff1222b14c21cd243770c75dcca
   TypeTreeHash:
     serializedVersion: 2
     Hash: f47e5080155a0c3ac2e9ffbbc14e366d
@@ -24,64 +24,81 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/Round Window Half Wall Frame.obj
-- Assets/Roof Cap Slope 2.3DS
-- Assets/Roof Overhang Tri Slope 1.3DS
-- Assets/Roof Inside Corer Slant 3.3DS
-- Assets/Roof  Middle Slope 2.3DS
-- Assets/Wide Door Frame.3DS
-- Assets/Roof Middle End Slant 3.3DS
-- Assets/Roof Cap Slope 3.3DS
-- Assets/Roof Overhang.3DS
-- Assets/Pole.3DS
-- Assets/Roof Slope 2.3DS
-- Assets/Roof  Middle Slope 1.3DS
-- Assets/Wide Door Border.3DS
-- Assets/Roof Overhang Tri Slope 3.3DS
-- Assets/Roof Outside Corner Slant 1.3DS
-- Assets/Box Window.3DS
-- Assets/Quarter Height Wall.3DS
-- Assets/Rectangle Window Frame 1.3DS
-- Assets/Box Window Frame 1.3DS
-- Assets/Floor.3DS
-- Assets/Triangle Slope 2.obj
-- Assets/Hor Accent Corner.3DS
-- Assets/Flat Roof.3DS
-- Assets/Roof Cap Slope 1.3DS
-- Assets/Roof Overhang Slope 3.3DS
-- Assets/Round Window Frame 1.obj
-- Assets/Roof Middle End Slant 2.3DS
-- Assets/Triangle Slope 1.obj
-- Assets/Half Vertical Border.3DS
-- Assets/Vert Accent Corner.3DS
+- Assets/Hor Wall Accent Half.obj
+- Assets/Half Wall Accent Slope 4.obj
+- Assets/Vert Accent Corner Quart.3DS
 - Assets/Tall Window Frame 1.3DS
-- Assets/Vertical Border.3DS
-- Assets/Half Height Wall.3DS
-- Assets/Roof Inside Corer Slant 1.3DS
+- Assets/Vert Accent Corner Half.3DS
+- Assets/Roof Overhang Tri Slope 3.3DS
 - Assets/Roof Slope 1.3DS
-- Assets/Rectangle Window.3DS
-- Assets/Wall Slope 3.obj
-- Assets/Hor Wall Accent.obj
-- Assets/Wall.3DS
-- Assets/Roof Overhang Corner.3DS
-- Assets/Quarter Pole.3DS
-- Assets/Wall Slope 1.obj
-- Assets/Quarter Vertical Border.3DS
 - Assets/Roof Overhang Tri Slope 2.3DS
-- Assets/Triangle Slope 3.obj
-- Assets/Wall Border.3DS
-- Assets/Tall Window.3DS
-- Assets/Half Pole.3DS
-- Assets/Roof Outside Corner Slant 2.3DS
-- Assets/Roof Outside Corner Slant 3.3DS
-- Assets/Roof Middle End Slant 1.3DS
-- Assets/Roof  Middle Slope 3.3DS
-- Assets/Round Window.3DS
-- Assets/Wall Slope 2.obj
-- Assets/Wide Door.3DS
-- Assets/Roof Inside Corer Slant 2.3DS
-- Assets/Roof Overhang Slope 2.3DS
-- Assets/Round Window Half Wall.3DS
 - Assets/Roof Overhang Slope 1.3DS
+- Assets/Roof Inside Corer Slant 2.3DS
+- Assets/Round Window.3DS
 - Assets/Roof Slope 3.3DS
+- Assets/Pole.3DS
+- Assets/Wide Door Border.3DS
+- Assets/Wall Accent Slope 1.obj
+- Assets/Wall Accent Slope 3.obj
+- Assets/Roof Cap Slope 1.3DS
+- Assets/Vertical Border.3DS
+- Assets/Roof Outside Corner Slant 3.3DS
+- Assets/Roof Overhang Corner.3DS
+- Assets/Roof Cap Slope 2.3DS
+- Assets/Vert Accent Corner.3DS
+- Assets/Roof Overhang Slope 2.3DS
+- Assets/Wide Door Frame.3DS
+- Assets/Roof  Middle Slope 2.3DS
+- Assets/Roof Middle End Slant 3.3DS
+- Assets/Floor.3DS
+- Assets/Wall Slope 4.obj
+- Assets/Round Window Half Wall Frame.obj
+- Assets/Wall Accent Slope 4.obj
+- Assets/Roof Slope 2.3DS
+- Assets/Triangle Slope 2.obj
+- Assets/Half Height Wall.3DS
+- Assets/Hor Accent Corner.3DS
+- Assets/Quart Wall Accent Slope 3.obj
+- Assets/Wall.3DS
+- Assets/Wall Slope 3.obj
+- Assets/Half Wall Accent Slope 1.obj
+- Assets/Wall Slope 2.obj
+- Assets/Tall Window.3DS
+- Assets/Quarter Vertical Border.3DS
+- Assets/Roof  Middle Slope 1.3DS
+- Assets/Roof Middle End Slant 1.3DS
+- Assets/Half Vertical Border.3DS
+- Assets/Roof  Middle Slope 3.3DS
+- Assets/Roof Outside Corner Slant 2.3DS
+- Assets/Half Wall Accent Slope 2.obj
+- Assets/Quart Wall Accent Slope 2.obj
+- Assets/Triangle Slope 3.obj
+- Assets/Roof Inside Corer Slant 1.3DS
+- Assets/Box Window Frame 1.3DS
+- Assets/Roof Cap Slope 3.3DS
+- Assets/Half Wall Accent Slope 3.obj
+- Assets/Wide Door.3DS
+- Assets/Round Window Frame 1.obj
+- Assets/Rectangle Window Frame 1.3DS
+- Assets/Roof Inside Corer Slant 3.3DS
+- Assets/Quarter Height Wall.3DS
+- Assets/Hor Wall Accent.obj
+- Assets/Half Pole.3DS
+- Assets/Hor Wall Accent Quart.obj
+- Assets/Roof Outside Corner Slant 1.3DS
+- Assets/Roof Overhang.3DS
+- Assets/Quarter Pole.3DS
+- Assets/Round Window Half Wall.3DS
+- Assets/Roof Overhang Slope 3.3DS
+- Assets/Wall Border.3DS
+- Assets/Triangle Slope 1.obj
+- Assets/Roof Middle End Slant 2.3DS
+- Assets/Quart Wall Accent Slope 1.obj
+- Assets/Roof Overhang Tri Slope 1.3DS
+- Assets/Flat Roof.3DS
+- Assets/Box Window.3DS
+- Assets/Wall Slope 1.obj
+- Assets/Quart Wall Accent Slope 4.obj
+- Assets/Wall Accent Slope 2.obj
+- Assets/Rectangle Window.3DS
 Dependencies: []
