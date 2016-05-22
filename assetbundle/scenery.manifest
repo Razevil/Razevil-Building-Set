@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 413794595
+CRC: 3817780135
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fda01ff1222b14c21cd243770c75dcca
+    Hash: 59cfad11bc4419e557ae30658c680f5a
   TypeTreeHash:
     serializedVersion: 2
     Hash: f47e5080155a0c3ac2e9ffbbc14e366d
@@ -52,6 +52,7 @@ Assets:
 - Assets/Roof Middle End Slant 3.3DS
 - Assets/Floor.3DS
 - Assets/Wall Slope 4.obj
+- Assets/Wall Accent Intersection.obj
 - Assets/Round Window Half Wall Frame.obj
 - Assets/Wall Accent Slope 4.obj
 - Assets/Roof Slope 2.3DS

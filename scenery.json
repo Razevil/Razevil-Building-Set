@@ -17,7 +17,7 @@
 		"model": "Half Height Wall",
 		"type": "deco",
 		"price": 2.50,
-		"heightDelta": 0.5,
+		"heightDelta": 0.25,
 		"grid": true,
 		"recolorable": true,
 		"recolorableOptions": {
@@ -121,7 +121,7 @@
 		"model": "Round Window Half Wall",
 		"type": "deco",
 		"price": 5.00,
-		"heightDelta": 0.5,
+		"heightDelta": 0.25,
 		"grid": true,
 		"recolorable": true,
 		"recolorableOptions": {
@@ -173,7 +173,7 @@
 		"model": "Round Window Half Wall Frame",
 		"type": "deco",
 		"price": 1.00,
-		"heightDelta": 0.5,
+		"heightDelta": 0.25,
 		"grid": true,
 		"recolorable": true,
 		"recolorableOptions": {
@@ -220,7 +220,7 @@
 			}
 		},
 		
-	"Vertical Border": {
+	"Vertical Accent": {
 		"category": "Razevil Deco/Adornments",
 		"model": "Vertical Border",
 		"type": "deco",
@@ -232,7 +232,7 @@
 			}
 		},
 		
-	"Half Vertical Border": {
+	"Half Vertical Accent": {
 		"category": "Razevil Deco/Adornments",
 		"model": "Half Vertical Border",
 		"type": "deco",
@@ -244,7 +244,7 @@
 			}
 		},
 		
-	"Quarter Vertical Border": {
+	"Quarter Vertical Accent": {
 		"category": "Razevil Deco/Adornments",
 		"model": "Quarter Vertical Border",
 		"type": "deco",
@@ -283,6 +283,18 @@
 	"Quarter Horizontal Wall Accent": {
 		"category": "Razevil Deco/Adornments",
 		"model": "Hor Wall Accent Quart",
+		"type": "deco",
+		"price": 1.00,
+		"heightDelta": 0.25,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color 1": "#4A0101"
+			}
+		},
+		
+	"Wall Accent Intersection": {
+		"category": "Razevil Deco/Adornments",
+		"model": "Wall Accent Intersection",
 		"type": "deco",
 		"price": 1.00,
 		"heightDelta": 0.25,
